@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	color: #BA00F7;
+	font-size: 25px; 
+	background: #A5D413; 
+}
+b {
+	color: #0319BF;
+	font-size: 20px; 
+	background: #DD0014;
+}
+a {
+	color: #0022EC;
+	font-size: 15px; 
+	background: #FFFBFB;
+}
+h2 {
+	color: #F52F2F;
+	font-size: 25px; 
+	background: #0A0EB5;
+}
+body {
+	background-image: url("slikepro/pozadinazavideo.jpg");
+	background-size: cover
+		
+}
